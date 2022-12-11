@@ -1,0 +1,6 @@
+{
+  "name" : "br-driver",
+  "base" : "br-base.json",
+  "overlay" : "/scratch/joonho.whangbo/coding/cs262A_driver/test_programs/overlay",
+  "guest-init" : "run.sh"
+}
